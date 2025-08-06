@@ -1,0 +1,1 @@
+This is a program where you can play Checkers on local multiplayer
